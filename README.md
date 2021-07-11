@@ -1,4 +1,20 @@
-### Hi there 👋
+
+
+👋 Hi,
+Hey Y'all! Full-Stack Software Developer and current student at Codeup!
+- 👀 I’m interested in ...
+a career in software development/engineering with a reputable company that impacts many for the better.
+
+- 🌱 I’m currently learning ...
+Full Stack Web Software Development through Codeup Bootcamp.
+
+- 💞️ I’m looking to collaborate on ...
+projects with my classmates and to network with current software developers I can learn more from.
+
+- 📫 How to reach me ...
+martinezdustin736@gmail.com
+
+
 
 <!--
 **martinezdustin736/martinezdustin736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
